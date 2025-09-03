@@ -303,7 +303,7 @@
         <carbon.identity.oauth.common.version>6.2.0</carbon.identity.oauth.common.version>
         <commons-lang.wso2.version>2.6.0.wso2v1</commons-lang.wso2.version>
         <commons-codec.version>1.14.0.wso2v1</commons-codec.version>
-        <nimbusds.osgi.version.range>[7.3.0,8.0.0)</nimbusds.osgi.version.range>
+        <nimbusds.osgi.version.range>[10.3.0.wso2v1,11.0.0)</nimbusds.osgi.version.range>
         <imp.pkg.version.javax.servlet>[2.6.0, 3.0.0)</imp.pkg.version.javax.servlet>
         <net.minidev.json.imp.pkg.version.range>[2.3.0, 3.0.0)</net.minidev.json.imp.pkg.version.range>
         <commons-codec.wso2.osgi.version.range>[1.4.0,2.0.0)</commons-codec.wso2.osgi.version.range>
@@ -318,7 +318,7 @@
         <carbon.user.api.imp.pkg.version.range>[1.0.1, 2.0.0)</carbon.user.api.imp.pkg.version.range>
         <pax.logging.api.version>1.10.1</pax.logging.api.version>
         <apache.felix.scr.ds.annotations.version>1.2.4</apache.felix.scr.ds.annotations.version>
-        <nimbusds.version>7.3.0.wso2v1</nimbusds.version>
+        <nimbusds.version>10.3.0.wso2v1</nimbusds.version>
         <sonar-maven-plugin-version>3.7.0.1746</sonar-maven-plugin-version>
         <checkstyle-maven-plugin.version>3.1.2</checkstyle-maven-plugin.version>
         <maven.bundle.plugin.version>3.2.0</maven.bundle.plugin.version>
